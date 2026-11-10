@@ -1,23 +1,23 @@
-# Sall Portfolio v2
+# portfolio
 
-A modern, interactive, and responsive personal portfolio website built to showcase projects, skills, and experience.
+a modern, interactive, and responsive personal portfolio website built to showcase projects, skills, and experience.
 
-## 🌐 Live Demo
+## Live Demo
 
-Check out the live website here: **[https://sall.my.id](https://sall.my.id)**
+Check out the live website here: **[https://vsallzportfolio.my.id](https://vsallzportfolio.my.id)**
 
-## 🚀 Features
+## Features
 
-- **Modern UI/UX**: Sleek design with premium aesthetics, carefully curated typography, and smooth micro-interactions.
-- **Interactive Animations**: Powered by Framer Motion for scroll reveals, hover effects, and fluid modal transitions.
-- **Project Showcase**: Detailed project cards with technology stack tags, features lists, and links to source code / live demos. (Includes support for private repositories).
-- **Responsive Design**: Fully optimized for mobile, tablet, and desktop viewing (includes a responsive infinite-scroll slider for mobile).
+- **modern UI/UX**: sleek design with premium aesthetics, carefully curated typography, and smooth micro-interactions.
+- **interactive animations**: powered by Framer Motion for scroll reveals, hover effects, and fluid modal transitions.
+- **project showcase**: detailed project cards with technology stack tags, features lists, and links to source code / live demos. (Includes support for private repositories).
+- **responsive design**: Fully optimized for mobile, tablet, and desktop viewing (includes a responsive infinite-scroll slider for mobile).
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-- **Framework**: [Next.js](https://nextjs.org/) (App Router)
-- **Language**: [TypeScript](https://www.typescriptlang.org/)
-- **Styling**: [Tailwind CSS](https://tailwindcss.com/)
+- **framework**: [Next.js](https://nextjs.org/) (App Router)
+- **language**: [TypeScript](https://www.typescriptlang.org/)
+- **styling**: [Tailwind CSS](https://tailwindcss.com/)
 - **Animations**: [Framer Motion](https://www.framer.com/motion/)
 
 ## 💻 Getting Started
